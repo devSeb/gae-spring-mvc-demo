@@ -1,10 +1,11 @@
 ## GAE-SPRING-MVC Example
 
 ## Project Information
-GroupId: com.google.appengine.archetypes
-ArtifactId: appengine-skeleton-archetype
-Version: 2.0.2-1.9.21
-
+<br>
+GroupId: com.google.appengine.archetypes<br>
+ArtifactId: appengine-skeleton-archetype<br>
+Version: 2.0.2-1.9.21<br>
+<br>
 [Project Deployed on App Engine](http://devseb-spring-mvc-example.appspot.com/) 
 
 ## Technologies :
