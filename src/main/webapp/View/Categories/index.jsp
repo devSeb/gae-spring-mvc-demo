@@ -6,6 +6,6 @@
     <title>Spring MVC, GoogleAppEngine  Example:</title>
 </head>
 <body>
-    coucou
+    Hello Word
 </body>
 </html>
