@@ -12,9 +12,8 @@ Version: 2.0.2-1.9.21<br>
 
 <ul>
 	<li>Spring MVC <a href="http://projects.spring.io/spring-framework/">http://projects.spring.io/spring-framework/</a></li>
-	<li>Google App Engine API <a href="https://developers.google.com/appengine/docs/java/">https://developers.google.com/appengine/docs/java/</a></li></ul>
-App Engine Java Application
-Copyright (C) 2010-2012 Google Inc.
+	<li>Google App Engine API <a href="https://developers.google.com/appengine/docs/java/">https://developers.google.com/appengine/docs/java/</a></li>
+	</ul>
 
 
 
