@@ -8,7 +8,7 @@ Version: 2.0.2-1.9.21<br>
 <br>
 [Project Deployed on App Engine](http://devseb-spring-mvc-example.appspot.com/) 
 
-## Technologies :
+## Technologies
 
 <ul>
 	<li>Spring MVC <a href="http://projects.spring.io/spring-framework/">http://projects.spring.io/spring-framework/</a></li>
